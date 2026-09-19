@@ -1,0 +1,1 @@
+一个基于Linux下的epoll技术，移植于windows环境上可实现的网络聊天室。
